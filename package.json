@@ -62,7 +62,7 @@
     "uuid": "^3.3.3"
   },
   "peerDependencies": {
-    "knex": ">=0.15.0 <0.22.0"
+    "knex": ">=0.15.0"
   },
   "author": {
     "name": "Tim Griesser",
